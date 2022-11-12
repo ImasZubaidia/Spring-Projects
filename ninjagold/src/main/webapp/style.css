@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+.startover{
+	margin-left:30px;
+}
+#forms{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.left-h3{
+    margin-top: 20px;
+    margin-left: 25px;
+}
+.form1{
+    width: 300px;
+    height: 220px;
+    line-height: 40px;
+    padding: 10px;
+    background-color: cornflowerblue;
+    color: black;
+    border-radius: 5px;
+}
+.form1 h3,p{
+    margin-left: 100px;
+}
+.form1 button{
+    margin-left: 100px;
+}
+.container{
+    margin-top: 10px;
+}
+.gain{
+    color:green;
+}
+.loss{
+    color:red;
+}
+.activity_log{
+	margin-left:30px;
+}
